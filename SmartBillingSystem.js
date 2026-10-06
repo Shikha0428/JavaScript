@@ -1,7 +1,7 @@
 // npm install prompt-sync
 // Run the above command in the terminal before using prompt-sync.
 
-// 1. Import and initialize the prompt library
+// Import and initialize the prompt library
 const prompt = require("prompt-sync")();
 
 
